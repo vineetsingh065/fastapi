@@ -1,0 +1,4 @@
+*.idea
+demo.py
+todoapp/todos.db
+*/__pycache__
